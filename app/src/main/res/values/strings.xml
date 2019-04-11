@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP_Login</string>
+    <string name="title_activity_booking_status_">BookingStatus_Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>
